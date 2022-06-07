@@ -7,4 +7,4 @@
 ### Listar
 ### excluir
 
-### Contatos de um arquivo de [contatos.csv](./projeto/dados/contatos.csv)
+### Contatos de um arquivo de [contatos.csv](./projeto/dados)
