@@ -1,6 +1,10 @@
 # Projeto be.academy - Crud de contatos 
 
-### Projeto Crud para cadastrar
-### listar
-### excluir 
-### e editar contatos!
+## Este projeto possui as seguintes caracteristicas:
+
+### Cadastrar
+### Editar
+### Listar
+### excluir
+
+### Contatos de um arquivo.csv
